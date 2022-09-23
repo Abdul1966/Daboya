@@ -1,0 +1,91 @@
+.site{
+    width:80%;
+    height: auto;
+    margin: 0 10%;
+}
+
+.heading{
+    text-align: center;
+    color:blue;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.form-container{
+    width:100%;
+    height: auto;
+    margin:0;
+}
+
+.form-container .search-form{
+    width: 100%;
+    height: auto;
+    margin:0;
+}
+
+.form-container .search-form .row{
+    width: 100%;
+    height: auto;
+    margin:10px 0;
+    text-align: center;
+}
+
+.form-container .search-form .search{
+    width:100%;
+    height: auto;
+    margin: 10px 0;
+    font-size: 18px;
+    padding:20px;
+    box-sizing: border-box;
+    border:1px solid gray;
+    border-radius: 25px;
+}
+
+.form-container .search-form .row .parameters{
+    padding:10px;
+    margin:10px;
+    box-sizing: border-box;
+}
+
+.form-container .search-form .row .search-button{
+    width:300px;
+    height: auto;
+    padding:20px;
+    margin:10px;
+    box-sizing: border-box;
+    font-size: 18px;   
+    background-color: lightgray; 
+    color:white;
+    cursor:pointer;
+}
+
+ .data-container{
+    width:100%;
+    height: auto;
+    margin:10px 0;
+}
+
+.data-container .data-list{
+    width:100%;
+    height: auto;
+    margin :0;
+    list-style: none;
+    padding:0;
+}
+
+.data-container .data-list .list-item{
+    width:100%;
+    height: auto;
+    margin:10px 0;
+    background-color: lightgray;
+    padding:10px;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+
+}
+
+.status{
+    font-size: 28px;
+}
